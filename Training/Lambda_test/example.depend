@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1356003591 source:c:\users\psyko\codeblockwork\example\main.cpp
+	<boost/thread/thread.hpp>
+	<iostream>
+

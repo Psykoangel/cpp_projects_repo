@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1322738754 source:c:\users\exia_michael\cb_projects\fantasy_csl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"affichage_.h"
+	"saisie.h"
+	"QuitterProg.h"
+
+1322732612 c:\users\exia_michael\cb_projects\fantasy_csl\main.h
+
+1322658039 c:\users\exia_michael\cb_projects\fantasy_csl\affichage_bienvenue.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1322658229 source:c:\users\exia_michael\cb_projects\fantasy_csl\affichage_bienvenue.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1322736173 c:\users\exia_michael\cb_projects\fantasy_csl\affichage_.h
+
+1322738662 source:c:\users\exia_michael\cb_projects\fantasy_csl\menu_ecrantitre.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"affichage_.h"
+
+1322660875 c:\users\exia_michael\cb_projects\fantasy_csl\saisie.h
+
+1322736984 source:c:\users\exia_michael\cb_projects\fantasy_csl\affichage_.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1322661064 source:c:\users\exia_michael\cb_projects\fantasy_csl\saisie.c
+
+1322666958 c:\users\exia_michael\cb_projects\fantasy_csl\quitterprog.h
+
+1322669005 source:c:\users\exia_michael\cb_projects\fantasy_csl\quitterprog.c
+	<stdio.h>
+	<stdlib.h>
+
+1322833556 source:c:\users\exia_michael\cb_projects\fantasy_csl\savegame.c
+

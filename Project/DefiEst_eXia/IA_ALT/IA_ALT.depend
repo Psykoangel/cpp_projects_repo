@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1335857829 source:c:\users\exia_michael\cb_projects\ia_alt\action.cpp
+	"Action.h"
+
+1335953490 c:\users\exia_michael\cb_projects\ia_alt\action.h
+	<iostream>
+	<vector>
+	<string>
+	"Trace.h"
+	"Constraint.h"
+	"StaticConstraint.h"
+	"VarConstraint.h"
+	"RecursiveConstraint.h"
+
+1335954081 c:\users\exia_michael\cb_projects\ia_alt\trace.h
+	<iostream>
+
+1333807263 c:\users\exia_michael\cb_projects\ia_alt\constraint.h
+	"Trace.h"
+
+1333807263 c:\users\exia_michael\cb_projects\ia_alt\staticconstraint.h
+	"Constraint.h"
+	"Trace.h"
+
+1333807480 c:\users\exia_michael\cb_projects\ia_alt\varconstraint.h
+	"Constraint.h"
+	"Trace.h"
+
+1335715927 c:\users\exia_michael\cb_projects\ia_alt\recursiveconstraint.h
+	<vector>
+	"Constraint.h"
+	"Trace.h"
+
+1335958995 source:c:\users\exia_michael\cb_projects\ia_alt\bot.cpp
+	"Bot.h"
+
+1335958085 c:\users\exia_michael\cb_projects\ia_alt\bot.h
+	<iostream>
+	<vector>
+	<string>
+	"StaticConstraint.h"
+	"VarConstraint.h"
+	"RecursiveConstraint.h"
+	"Constraint.h"
+	"Reaction.h"
+	"Action.h"
+	"IA.h"
+	"Relation.h"
+
+1335858096 c:\users\exia_michael\cb_projects\ia_alt\reaction.h
+	<iostream>
+	<vector>
+	<string>
+	"Action.h"
+	"Constraint.h"
+	"Trace.h"
+
+1335708663 c:\users\exia_michael\cb_projects\ia_alt\ia.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<cmath>
+	"Action.h"
+	"Trace.h"
+
+1335954242 c:\users\exia_michael\cb_projects\ia_alt\relation.h
+	<cmath>
+	"Constraint.h"
+
+1332262037 source:c:\users\exia_michael\cb_projects\ia_alt\constraint.cpp
+	"Constraint.h"
+
+1335957653 source:c:\users\exia_michael\cb_projects\ia_alt\ia.cpp
+	"IA.h"
+
+1335720663 source:c:\users\exia_michael\cb_projects\ia_alt\reaction.cpp
+	"Reaction.h"
+
+1335715739 source:c:\users\exia_michael\cb_projects\ia_alt\recursiveconstraint.cpp
+	"RecursiveConstraint.h"
+
+1335954530 source:c:\users\exia_michael\cb_projects\ia_alt\relation.cpp
+	"Relation.h"
+
+1335960091 source:c:\users\exia_michael\cb_projects\ia_alt\scene.cpp
+	"Scene.h"
+
+1331825110 c:\users\exia_michael\cb_projects\ia_alt\scene.h
+	<iostream>
+	<vector>
+	"Bot.h"
+
+1333812811 source:c:\users\exia_michael\cb_projects\ia_alt\staticconstraint.cpp
+	"StaticConstraint.h"
+
+1335447583 source:c:\users\exia_michael\cb_projects\ia_alt\varconstraint.cpp
+	"VarConstraint.h"
+
+1332417173 source:c:\users\exia_michael\cb_projects\ia_alt\main.cpp
+	<iostream>
+	<time.h>
+	"Scene.h"
+

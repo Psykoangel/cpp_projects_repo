@@ -1,0 +1,6 @@
+// -- ToDoList.txt --
+
+	- Faire la trace des variables -- > fait 
+	- Compléter les destructeurs -- >
+	- Mettre des variables dans la classe "Bot" -- >
+	- mettre l'action jouer avec quelqu'un

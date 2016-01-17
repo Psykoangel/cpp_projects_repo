@@ -1,0 +1,18 @@
+Constraint.cpp vide : enlever ou pas ?
+
+Rajout :
+	variable mood (que j'ai collé à temper un peu partout, désolé de tout chambouler
+	Destructeurs Action, RecursivConstraints, IA, Bot
+	Fonctions expérimentales pour les coordonnées : à interfacer
+		contact dans Relation pour attirer et les interactions
+		travel pour promener et explorer (différence de distance ?)
+	Plein de choses, j'ai la flemme de faire la liste.
+	Des poids, notamment sur les catégories
+	Trois catégories : Interaction pures, Actions solitaires, mixte
+	Les relations (ajout, suppression et mises à jour)
+	gestion des tours dans scene.cpp
+	Réactions et application des réactions
+	
+
+Vérifier delRelation dans Bot.cpp
+Debbuger. Calibrer et commenter si possible

@@ -1,0 +1,21 @@
+
+- Groupe
+	| taper
+	- ordonner
+	| saluer
+	| Beau Cadeau
+	| Cadeau piègé
+
+- Mixte
+	- parler
+	| crier
+	| geindre
+	| rire
+	| jouer
+
+- Solo
+	| promener
+	| attirer
+	| explorer
+	| se nourrir
+	| dormir
